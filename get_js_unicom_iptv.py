@@ -1,4 +1,3 @@
-
 import os
 import json
 import re
@@ -68,8 +67,11 @@ def save_m3u(data):
     date_string = now.strftime('%Y-%m-%d')
 
     print(date_string)
+    output_latest = f"iptv_js-latest.m3u"
     output_filename = f"m3u/iptv_js-{date_string}.m3u"
     with open(output_filename, 'w', encoding='utf-8') as file:
+        file.write(data)
+    with open(output_latest, 'w', encoding='utf-8') as file:
         file.write(data)
 
 if __name__ == "__main__":
