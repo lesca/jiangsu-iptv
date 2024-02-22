@@ -2,4 +2,5 @@
 
 ## 下载
 * [latest](https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js-latest.m3u)
+* [latest mirror](https://mirror.ghproxy.com/https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js-latest.m3u)
 * [history](/m3u/)
