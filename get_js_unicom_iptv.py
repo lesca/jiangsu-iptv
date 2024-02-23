@@ -59,16 +59,15 @@ def read_json_data():
 
     return data
 
-def save_m3u(data):
+def save_m3u(data, name = "iptv_js"):
     # 获取当前日期和时间
     now = datetime.now()
 
     # 将日期格式化为 "yyyy-mm-dd"
     date_string = now.strftime('%Y-%m-%d')
 
-    print(date_string)
-    output_latest = f"iptv_js-latest.m3u"
-    output_filename = f"m3u/iptv_js-{date_string}.m3u"
+    output_latest = f"{name}-latest.m3u"
+    output_filename = f"m3u/{name}-{date_string}.m3u"
     with open(output_filename, 'w', encoding='utf-8') as file:
         file.write(data)
     with open(output_latest, 'w', encoding='utf-8') as file:
@@ -76,7 +75,9 @@ def save_m3u(data):
 
 if __name__ == "__main__":
     data = read_json_data()
-    m3u_data = "#EXTM3U\n"
+    exclude_list = ["少儿","卡通","购物"]
+    m3u_data_full = "#EXTM3U\n"
+    m3u_data_kid = "#EXTM3U\n"
 
     # 从data中提取所需的信息
     for item in data['data']:
@@ -95,8 +96,14 @@ if __name__ == "__main__":
 
         # 打印提取的信息
         print(f"处理: {tag}-{chnName}-{chnCode}")
-        m3u_data += f'#EXTINF:-1 group-title="{tag}",{chnName}\n'
-        m3u_data += f'{playUrl_real}\n'
+        m3u_data_full += f'#EXTINF:-1 group-title="{tag}",{chnName}\n'
+        m3u_data_full += f'{playUrl_real}\n'
+
+        # 青少年保护频道过滤
+        if all(k not in chnName for k in exclude_list) and all(k not in tag for k in exclude_list):
+            m3u_data_kid += f'#EXTINF:-1 group-title="{tag}",{chnName}\n'
+            m3u_data_kid += f'{playUrl_real}\n'
     
-    save_m3u(m3u_data)
+    save_m3u(data = m3u_data_full, name="iptv_js_full")
+    save_m3u(data = m3u_data_kid, name = "iptv_js_kid")
     print("Done.")
