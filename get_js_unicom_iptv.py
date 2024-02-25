@@ -110,12 +110,12 @@ def get_js_unicom_source(data):
 
         # 打印提取的信息
         print(f"处理: {tag}-{chnName}-{chnCode}")
-        m3u_data_full += f'#EXTINF:-1 group-title={groupName},{chnName}\n'
+        m3u_data_full += f'#EXTINF:-1 group-title="{groupName}",{chnName}\n'
         m3u_data_full += f'{playUrl_real}\n'
 
         # 青少年保护频道过滤
         if all(k not in groupName for k in ["少儿","其他"]):
-            m3u_data_kid += f'#EXTINF:-1 group-title={groupName},{chnName}\n'
+            m3u_data_kid += f'#EXTINF:-1 group-title="{groupName}",{chnName}\n'
             m3u_data_kid += f'{playUrl_real}\n'
         
     # 获取custom目录下所有的文件
