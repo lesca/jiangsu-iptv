@@ -10,4 +10,4 @@
 * [latest mirror](https://mirror.ghproxy.com/https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_kid-latest.m3u)
 
 ## 历史文件
-* [history](/m3u/)
+* [history](/history/)

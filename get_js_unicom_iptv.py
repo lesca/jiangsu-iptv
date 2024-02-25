@@ -1,19 +1,16 @@
 import os
 import json
-import re
+import glob
 import sys
 import requests
 from datetime import datetime
 
 def open_latest_tag_file():
-    # 获取当前目录中所有文件
-    files = os.listdir('.')
-
-    # 过滤出以'tag'开头的JSON文件
-    tag_files = [file for file in files if re.match(r'^.*\.json$', file)]
+    # 获取当前目录中所有json文件
+    tag_files = glob.glob(os.path.join('.','*.json'))
 
     if not tag_files:
-        print("当前目录中没有以'tag'开头的JSON文件。")
+        print("当前目录中没有JSON文件。")
         return ""
 
     # 找出最新的文件
@@ -31,7 +28,8 @@ def read_json_data():
 
     if (filename == ""):
         print ("尝试从URL获取最新数据...")
-        url = 'http://122.96.52.19:29010/tagNewestEpgList/JS_CUCC/1/100/0.json'
+        # url = 'http://122.96.52.19:29010/tagNewestEpgList/JS_CUCC/1/100/0.json'
+        url = 'http://live.epg.gitv.tv/tagNewestEpgList/JS_CUCC/1/100/0.json'
         try:
             # 发送GET请求
             response = requests.get(url)
@@ -67,14 +65,13 @@ def save_m3u(data, name = "iptv_js"):
     date_string = now.strftime('%Y-%m-%d')
 
     output_latest = f"{name}-latest.m3u"
-    output_filename = f"m3u/{name}-{date_string}.m3u"
+    output_filename = f"history/{name}-{date_string}.m3u"
     with open(output_filename, 'w', encoding='utf-8') as file:
         file.write(data)
     with open(output_latest, 'w', encoding='utf-8') as file:
         file.write(data)
 
-if __name__ == "__main__":
-    data = read_json_data()
+def get_js_unicom_source(data):
     exclude_list = ["少儿","卡通","购物"]
     m3u_data_full = "#EXTM3U\n"
     m3u_data_kid = "#EXTM3U\n"
@@ -96,14 +93,33 @@ if __name__ == "__main__":
 
         # 打印提取的信息
         print(f"处理: {tag}-{chnName}-{chnCode}")
-        m3u_data_full += f'#EXTINF:-1 group-title="{tag}",{chnName}\n'
+        m3u_data_full += f'#EXTINF:-1 group-title="江苏联通",{chnName}\n'
         m3u_data_full += f'{playUrl_real}\n'
 
         # 青少年保护频道过滤
         if all(k not in chnName for k in exclude_list) and all(k not in tag for k in exclude_list):
-            m3u_data_kid += f'#EXTINF:-1 group-title="{tag}",{chnName}\n'
+            m3u_data_kid += f'#EXTINF:-1 group-title="江苏联通",{chnName}\n'
             m3u_data_kid += f'{playUrl_real}\n'
-    
+        
+    # 获取custom目录下所有的文件
+    custom_files = glob.glob(os.path.join('custom', '*.m3u'))
+    custom_data = ""
+    # 遍历所有找到的文件
+    for custom_file in custom_files:
+        # 读取当前文件的内容
+        with open(custom_file, 'r', encoding='utf-8') as file:
+            content = file.readlines()
+        custom_data += "".join(content)
+
+    m3u_data_full += custom_data
+    m3u_data_kid += custom_data
+
     save_m3u(data = m3u_data_full, name="iptv_js_full")
     save_m3u(data = m3u_data_kid, name = "iptv_js_kid")
     print("Done.")
+
+
+if __name__ == "__main__":
+    data = read_json_data()
+    get_js_unicom_source(data)
+    
