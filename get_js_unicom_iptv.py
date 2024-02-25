@@ -71,8 +71,22 @@ def save_m3u(data, name = "iptv_js"):
     with open(output_latest, 'w', encoding='utf-8') as file:
         file.write(data)
 
+def get_group_info(chnName):
+    groups = {
+        "少儿": ["少儿","卡通","CCTV-14"],
+        "CCTV": ["CCTV","CGTN"],
+        "江苏": ["江苏", "南京"],
+        "卫视": ["卫视"],
+        "教育": ["CETV","教育"],
+    }
+
+    for key in groups:
+        if any(k in chnName for k in groups[key]):
+            return key
+    
+    return "其他"
+
 def get_js_unicom_source(data):
-    exclude_list = ["少儿","卡通","购物"]
     m3u_data_full = "#EXTM3U\n"
     m3u_data_kid = "#EXTM3U\n"
 
@@ -91,14 +105,17 @@ def get_js_unicom_source(data):
             playUrl_real = play_data['u']
             pass
 
+        # 获取 group 信息
+        groupName = get_group_info(chnName)
+
         # 打印提取的信息
         print(f"处理: {tag}-{chnName}-{chnCode}")
-        m3u_data_full += f'#EXTINF:-1 group-title="江苏联通",{chnName}\n'
+        m3u_data_full += f'#EXTINF:-1 group-title={groupName},{chnName}\n'
         m3u_data_full += f'{playUrl_real}\n'
 
         # 青少年保护频道过滤
-        if all(k not in chnName for k in exclude_list) and all(k not in tag for k in exclude_list):
-            m3u_data_kid += f'#EXTINF:-1 group-title="江苏联通",{chnName}\n'
+        if all(k not in groupName for k in ["少儿","其他"]):
+            m3u_data_kid += f'#EXTINF:-1 group-title={groupName},{chnName}\n'
             m3u_data_kid += f'{playUrl_real}\n'
         
     # 获取custom目录下所有的文件
@@ -114,6 +131,7 @@ def get_js_unicom_source(data):
     m3u_data_full += custom_data
     m3u_data_kid += custom_data
 
+    # 保存
     save_m3u(data = m3u_data_full, name="iptv_js_full")
     save_m3u(data = m3u_data_kid, name = "iptv_js_kid")
     print("Done.")
