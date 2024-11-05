@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import re
 import sys
 import requests
 from datetime import datetime
@@ -94,7 +95,7 @@ def get_js_unicom_source(data):
     for item in data['data']:
         tag = item['tag']
         chnunCode = item['chnunCode']
-        chnName = item['chnName']
+        chnName = re.sub(r"高清|超清|超清|-8M", "", item['chnName'])
         chnCode = item['chnCode']
         playUrl = item['playUrl']
         response = requests.get(playUrl)
