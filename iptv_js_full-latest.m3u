@@ -1,248 +1,248 @@
 #EXTM3U
-#EXTINF:-1 group-title="CCTV",CCTV-1
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAtpdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-2
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFFpdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-3
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB%2FiAqXWppdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-4
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYUhARSOAZvaB4bPLfRG1pdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-5
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEozMH5mDAJP6SltbUTv3nN9pdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV5+
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEp4x3ZVhpAE%2BHYVoOre4TutIJy%2Bwwr2dyo60aNFANosE&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-6
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuwxwaoCGJY2cCtI9leQXrRpdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-7
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo%2FnZmofd%2BrCFtc8Q50vu3BpdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-8
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsFjysg6lHm9n5%2FvwbWNDQ1pdvV8VMTo2LBcJX%2BxEnKL&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-9
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElGagliwFIk%2BluGBbGdVUbfCmEOD4Q%2B6v2W53nodxurS&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-10
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErwM4PQmmUbDAbEG18NJ7OPMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-11
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEglwOR0THVROxuCQpsWEgp3MQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-12
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvskw9SxptiBzf0Vc8ipYKPMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-13
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkjL6a8QWp3FPxxMdEg8%2F3TMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",CCTV-14
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo3RDHuXMRWK8VyFam4v%2FtXMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-15
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEr2cMh1na7Xi9YCb22Tii5DMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-16
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj7L5TMaaLEN8QSSnoeVsO%2FMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-17
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B7MQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CGTN新闻
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-NEWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEq%2FOFGGWwmuEqZCpNU2lpMLCmEOD4Q%2B6v2W53nodxurS&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育",CETV-1
-http://122.96.52.98:8006/JS_CUCC/G_CETV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtr5xdDcaGnHpkbNB8amu4xAZwf3gEuIGd5QLCeBTO1%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育",CETV-2
-http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEh%2FRY7lqh3ydmSejWvliIjxAZwf3gEuIGd5QLCeBTO1%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育",CETV-3
-http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu38%2Bz9kmx1FH1nwJpdzrvJAZwf3gEuIGd5QLCeBTO1%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育",CETV-4
-http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuzTN%2Fkw3iBp6dvSAua6C%2FJAZwf3gEuIGd5QLCeBTO1%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏卫视
-http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu%2B73CN7TjP4aPry8BxkIZrMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjTKOp5y44Jg1vAH7S7VwwkqHG9Gv90EQIMi0q3z0fZ%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkpoltLckJt5OHaIYzkg8K4qHG9Gv90EQIMi0q3z0fZ%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",东方卫视
-http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpTjLbpHWeOwAdCy1%2Fr4DvkqHG9Gv90EQIMi0q3z0fZ%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",北京卫视
-http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt6ptYCV0fCKRLa0se%2BHo4zMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://122.96.52.98:8006/JS_CUCC/SZWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhODXB6Zs95oH7VIIE642dgqHG9Gv90EQIMi0q3z0fZ%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",广东卫视
-http://122.96.52.98:8006/JS_CUCC/GDWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnku%2BForeJoehax%2F6oM8xdYqHG9Gv90EQIMi0q3z0fZ%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",辽宁卫视
-http://122.96.52.98:8006/JS_CUCC/LNWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEl%2Fz4Fhn8OlCEk39Ge7ab%2FKh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://122.96.52.98:8006/JS_CUCC/G_ANHUI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEskFtG7MWVQxnUKuRKkLGSorRZ9%2BSz%2BD%2BqMn0TPSDRv3&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",山东卫视
-http://122.96.52.98:8006/JS_CUCC/SDWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgBg75181bD33R4Zz9RxzSih6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-http://122.96.52.98:8006/JS_CUCC/HLJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuy0%2FzotpxF4KOUipsuK4OlAZwf3gEuIGd5QLCeBTO1%2F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",广西卫视
-http://122.96.52.98:8006/JS_CUCC/GXWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqNTo1%2FeRYr6jc6CmmdiSeah6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",海南卫视
-http://122.96.52.98:8006/JS_CUCC/LYWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEridxHzV6xd9MkccDtHNhzuh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://122.96.52.98:8006/JS_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpFqHW6qVcpEGyFqe3ywDRxqRcRd8iJHTmuSLIZmb%2FxX&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",四川卫视
-http://122.96.52.98:8006/JS_CUCC/SCWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEv%2FHd8JVPo0xVIPXuuV9KGWh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",河南卫视
-http://122.96.52.98:8006/JS_CUCC/HENAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhiOxGxZQm%2BKb9wugLKj0hHhCsZiWNVb%2B9ug3Ov%2B5E3U&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",天津卫视
-http://122.96.52.98:8006/JS_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj0L6Dg1hhqIlpu3cjkIsD%2FMQBmPBpANqi5ujApZVsXr&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",东南卫视
-http://122.96.52.98:8006/JS_CUCC/DNWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt2X%2BDF1aBm2W%2FB%2BKAFZJh6h6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",天津卫视
-http://122.96.52.98:8006/JS_CUCC/TJWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgkBzf0Fet8fiDmfzPdguGmh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",江西卫视
-http://122.96.52.98:8006/JS_CUCC/JXWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpwuvN5dnaDYrK3cCKDFGFah6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",湖北卫视-8M
-http://122.96.52.98:8006/JS_CUCC/G_HUBEI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhiwo1rxJM5kmI3wVOY8TOIrRZ9%2BSz%2BD%2BqMn0TPSDRv3&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",吉林卫视
-http://122.96.52.98:8006/JS_CUCC/G_JILIN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnDt6k2ZFaQXrJv8xAOVlsc%2FzgL7V0gROlACmY2l2kbG&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",山西卫视
-http://122.96.52.98:8006/JS_CUCC/SXWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEl1LeoGP7e9DTi%2BsxdZ%2FBQ6h6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",贵州卫视
-http://122.96.52.98:8006/JS_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjbowJTKP62EVqjfs1FFeyg5959orZfdSpeoF0HtaasR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",青海卫视
-http://122.96.52.98:8006/JS_CUCC/G_QINGHAI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEngXlTLAv49uuyHNr0mXufj7L%2F2h3Nx7tSry28CBJr%2Fy&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",内蒙古卫视
-http://122.96.52.98:8006/JS_CUCC/G_NEIMENGGU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqOL8nNQ1S%2B6DijQQvjgUFFS4Iluj9UxBkrpN%2FgsRFoN&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",云南卫视
-http://122.96.52.98:8006/JS_CUCC/G_YUNNAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvGpcY07utcdtGT0HC5mcVirb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",河北卫视
-http://122.96.52.98:8006/JS_CUCC/G_HEBEI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpEhkv8WidhUJbTEeV4mCMA%2FzgL7V0gROlACmY2l2kbG&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",河南卫视
-http://122.96.52.98:8006/JS_CUCC/G_HENAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo1biKSaN4IZAOln%2B3IklfY%2FzgL7V0gROlACmY2l2kbG&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",宁夏卫视
-http://122.96.52.98:8006/JS_CUCC/G_NINGXIA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmJE4sSDPIaupwOnmeI8tXz7L%2F2h3Nx7tSry28CBJr%2Fy&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",江西卫视
-http://122.96.52.98:8006/JS_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjwe5POuS0%2FZquuTeN6RjT05959orZfdSpeoF0HtaasR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",新疆卫视
-http://122.96.52.98:8006/JS_CUCC/G_XINJIANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnwoM6X8D28QRog9H0tGRT4%2FzgL7V0gROlACmY2l2kbG&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",四川卫视
-http://122.96.52.98:8006/JS_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEn7XS3iuqo%2FInP87aBoeBPk5959orZfdSpeoF0HtaasR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",甘肃卫视
-http://122.96.52.98:8006/JS_CUCC/G_GANSU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoli6t1%2BRlHZRbWEvHP3vA0OP7fmtYNYadKMB6wfdw%2B1&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",陕西卫视
-http://122.96.52.98:8006/JS_CUCC/G_SHANXI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnwbzkwuqdsiS7PzJ%2FnTrOerb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",西藏卫视
-http://122.96.52.98:8006/JS_CUCC/G_XIZANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjvh7S6lyoWyXrrH6d%2BO4Jyrb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",大湾区卫视
-http://122.96.52.98:8006/JS_CUCC/G_NANFANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnrADI1KfDcYhI8IZ2lK6Gv7L%2F2h3Nx7tSry28CBJr%2Fy&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",辽宁卫视
-http://122.96.52.98:8006/JS_CUCC/G_LIAONING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi6sZkgRoUiBEDwKyjhRsS%2FC18Qc9RrVgVPB%2FO1qkZ6F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",厦门卫视
-http://122.96.52.98:8006/JS_CUCC/G_XIAMEN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElyYog5jHRMlWKEvbkpdGQWrb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",山东卫视
-http://122.96.52.98:8006/JS_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhzmA3bkY8uR2T6FfCfBDojC18Qc9RrVgVPB%2FO1qkZ6F&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",安多卫视
-http://122.96.52.98:8006/JS_CUCC/G_ANDUO.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj6hDxcU5RL4X3vRmDYimqcOP7fmtYNYadKMB6wfdw%2B1&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",兵团卫视
-http://122.96.52.98:8006/JS_CUCC/G_BINGTUAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoU5XufNOd%2FprEwiDApHRL0%2FzgL7V0gROlACmY2l2kbG&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",康巴卫视
-http://122.96.52.98:8006/JS_CUCC/G_KANGBA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEowVgmFsAQDHoQa78PWhYECrb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",农林卫视
-http://122.96.52.98:8006/JS_CUCC/G_NONGLIN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt21yETOwT7WedB5bCb%2F85H7L%2F2h3Nx7tSry28CBJr%2Fy&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",延边卫视
-http://122.96.52.98:8006/JS_CUCC/G_YANBIAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtfnNLUhqvr5DhrV6Ru5Hyr7L%2F2h3Nx7tSry28CBJr%2Fy&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏教育
-http://122.96.52.98:8006/JS_CUCC/G_JSJY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnCjvddVBzao%2Fvjbc28wlwbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏城市
-http://122.96.52.98:8006/JS_CUCC/G_JSCS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErrOwNn6bd%2Fyu1fDDhXAkjHEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏新闻
-http://122.96.52.98:8006/JS_CUCC/G_JSGG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi3EKLA16HqDi3nRKLVJylfEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏影视
-http://122.96.52.98:8006/JS_CUCC/G_JSYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEp%2F9IwLmfbDzlpZZ9u5ywXvEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏休闲体育
-http://122.96.52.98:8006/JS_CUCC/G_JSTY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhsNh8bWz3ID9gPZ6u1rS1LEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏综艺
-http://122.96.52.98:8006/JS_CUCC/G_JSZY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEh5UnUuwoi43JnjFF5ou12HEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",卡酷少儿
-http://122.96.52.98:8006/JS_CUCC/G_KAKU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqUGgGP1LfUQqbBrjSqmJN3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",金鹰卡通
-http://122.96.52.98:8006/JS_CUCC/G_JINYING.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhq0dyfDyv%2BvSb71EJmi%2Fwv7L%2F2h3Nx7tSry28CBJr%2Fy&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",嘉佳卡通
-http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuY49iwOYM1w2GL%2F%2Fi6vWFOrb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",优漫卡通
-http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnfcnn8FKddnDAIq28kfnbCrb7sRiU1vOWf7DQxiK8KR&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",炫动卡通
-http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElHAdYz2UZrlFf6hIAWx9Lm7XNk4PtnzThWQ16WE7QEk&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育",山东教育
-http://122.96.52.98:8006/JS_CUCC/G_SDETV.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj497o%2F5GmfeYD7r4t7AwkUP5XS5s%2Ba9itJSw7vVkZCl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="其他",好享购物
-http://122.96.52.98:8006/JS_CUCC/G_HAOXIANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaZ3RBb4IpVIYdSjn1Grfy7XNk4PtnzThWQ16WE7QEk&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",南京新闻综合
-http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo0%2BLcD3fGPhVeJrULM6LdzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",南京十八·生活
-http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmWYVvTFJ6QG2%2FsKHGCXmyPEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",南京教科
-http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmVsIR%2BL1Xf1PH6%2FTncl%2FwXEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://122.96.52.98:8006/JS_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoNd2dktho8dQKmJgOb8jA%2F%2B080glSmz37IrAMuVMIK8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://122.96.52.98:8006/JS_CUCC/G_HUNAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpvKElGYWiZ5gdKgfgfTV%2F%2B7XNk4PtnzThWQ16WE7QEk&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",南京文旅记录
-http://122.96.52.98:8006/JS_CUCC/G_NJYL.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEssZHQz0hhtdRMAPi7Rh6fjEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",东方卫视
-http://122.96.52.98:8006/JS_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEquOD%2FF5rVZ9ggpQ6fpB0WH%2B080glSmz37IrAMuVMIK8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",南京影视
-http://122.96.52.98:8006/JS_CUCC/G_NJYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmhvbuUMHH%2FvMv6A%2FejY%2Bg3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",深圳卫视-8M
-http://122.96.52.98:8006/JS_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZLFHKtISZ64EC8%2FM6myNz%2B080glSmz37IrAMuVMIK8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",黑龙江卫视-8M
-http://122.96.52.98:8006/JS_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjIJG6TGS8K9nHRTabedgo7HvDDhNN%2FiuczljWUuqm9w&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",广东卫视-8M
-http://122.96.52.98:8006/JS_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi%2B9f1ioQT23DodmBN6xoZzlj2BRRibCD3G6%2B09PifYI&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",南京少儿
-http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoIayw4fmtSYLcdN2tJ%2FSc3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-1
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjULvF44HG8CStnfDFUruYyRqxh2R%2BP7BHHks449i3zb&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://122.96.52.98:8006/JS_CUCC/AHWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuueqkdWvxSumegQzxsc8q2h6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-3
-http://122.96.52.98:8006/JS_CUCC/CCTV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEm%2BFRdMxC97lbBqS%2B3jeVrzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-4
-http://122.96.52.98:8006/JS_CUCC/CCTV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtL%2BMQgWdDpo4bUa5StkZZbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-5
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuLBiWJLb2Xs%2Fj68hSxh8s%2BfuxvNuZt%2B3oHNpQV4qIlt&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-5+
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiH21ihWCb02eaLByFFgtonoX7%2FQYEmhci4LI9ZZhg04&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-6
-http://122.96.52.98:8006/JS_CUCC/CCTV-6.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiB3Ld2WB%2FW3mjOjC0f%2BanzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-7
-http://122.96.52.98:8006/JS_CUCC/CCTV-7.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu9%2FOJ2ayKb8egJrP6A06BHEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-9
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-9.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvirqdDHm4MuZ1ioRkeYWJSRqxh2R%2BP7BHHks449i3zb&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-10
-http://122.96.52.98:8006/JS_CUCC/CCTV-10.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnCH0xTCelIm4hf5dDOv%2BLAP5XS5s%2Ba9itJSw7vVkZCl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-11
-http://122.96.52.98:8006/JS_CUCC/CCTV-11.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErbNJI3xDSEh9HyWkWB7RTkP5XS5s%2Ba9itJSw7vVkZCl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-12
-http://122.96.52.98:8006/JS_CUCC/CCTV-12.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpoKqxlnSzX81Xf5ADg0UlIP5XS5s%2Ba9itJSw7vVkZCl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-13
-http://122.96.52.98:8006/JS_CUCC/CCTV-13.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEq%2BUtTgZTndmn1ddh5N%2B3sEP5XS5s%2Ba9itJSw7vVkZCl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿",CCTV-14
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-14.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoD9ET%2Fxx1xfq9p9fkelR8jK4dX2ddvJhbuG0iptrWey&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-15
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-15.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnO2QfmJhn9rzsvMT8s8LNDK4dX2ddvJhbuG0iptrWey&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",北京卫视
-http://122.96.52.98:8006/JS_CUCC/BTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnc%2BisIvd9ev5XiDaa4h1tvhCsZiWNVb%2B9ug3Ov%2B5E3U&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏卫视
-http://122.96.52.98:8006/JS_CUCC/JSWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqQBhqDS6T1V3MYuWWM%2BVEAP5XS5s%2Ba9itJSw7vVkZCl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-16
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEprOy1thJK05Ys6n3CjtSJn7HeLy7lO3%2FAxrjWs0F8Kl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-4
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEm2D6ehZ%2Fm6uG04mUXeIzUGNREwI3rFyeutSg8vsqKZE&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-6
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEs08JDfw3s7WN3MnDGyc%2FSiNREwI3rFyeutSg8vsqKZE&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://122.96.52.98:8006/JS_CUCC/G_CHONGQING.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqSEHLaOrkG3xlg23AFEwGWNREwI3rFyeutSg8vsqKZE&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",贵州卫视
-http://122.96.52.98:8006/JS_CUCC/G_GUIZHOU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEl97N1DtijAuyp%2BolGc7ka%2BNlGs9dHH52Fw6tTnVkjj7&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",吉林卫视
-http://122.96.52.98:8006/JS_CUCC/G_JILIN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuZZ28BLmYsR8vJWZPHsbq9m7dzvyycILdppT%2FkkIT4K&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://122.96.52.98:8006/JS_CUCC/G_HUBEI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEl5yEbInCOEYkzwEzdVsOvRm7dzvyycILdppT%2FkkIT4K&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="卫视",河北卫视
-http://122.96.52.98:8006/JS_CUCC/G_HEBEI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg%2BRWW9%2FGcJlea%2BBfe4x%2FkJm7dzvyycILdppT%2FkkIT4K&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-8
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjRHl42BlkGJajq1an8WD9uNREwI3rFyeutSg8vsqKZE&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏",江苏卫视
-http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElCWthYRb1KKeprmYzrIdHr7HeLy7lO3%2FAxrjWs0F8Kl&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV2财经频道
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgwqdXJuN6bi6tfgWhbeDhuNREwI3rFyeutSg8vsqKZE&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV",CCTV-3
-http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiC5KyJleyIffsaVcNhS%2FJmNREwI3rFyeutSg8vsqKZE&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV1",CCTV-1高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV2",CCTV-2高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV3",CCTV-3高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB%2FiAqXWou0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV4",CCTV-4高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYUhARSOAZvaB4bPLfRG0u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV5",CCTV-5高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEozMH5mDAJP6SltbUTv3nN8u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV5+",CCTV5+高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEp4x3ZVhpAE%2BHYVoOre4TusAXe%2BeZvUgolzXkq%2By75Rg&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV6",CCTV-6高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuwxwaoCGJY2cCtI9leQXrQu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV7",CCTV-7高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo%2FnZmofd%2BrCFtc8Q50vu3Au0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV8",CCTV-8高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsFjysg6lHm9n5%2FvwbWNDQ0u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV9",CCTV-9
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElGagliwFIk%2BluGBbGdVUbc02fQ712gaPW1S8iZfrxPb&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV10",CCTV-10超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErwM4PQmmUbDAbEG18NJ7ON4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV11",CCTV-11高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEglwOR0THVROxuCQpsWEgp14LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV12",CCTV-12高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvskw9SxptiBzf0Vc8ipYKN4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV13",CCTV-13超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkjL6a8QWp3FPxxMdEg8%2F3R4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="CCTV14",CCTV-14高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo3RDHuXMRWK8VyFam4v%2FtV4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV15",CCTV-15高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEr2cMh1na7Xi9YCb22Tii5B4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV16",CCTV-16高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj7L5TMaaLEN8QSSnoeVsO94LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV17",CCTV-17高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B54LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CGTN新闻",CGTN新闻
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-NEWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEq%2FOFGGWwmuEqZCpNU2lpMI02fQ712gaPW1S8iZfrxPb&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV1",CETV-1
+http://122.96.52.98:8006/JS_CUCC/G_CETV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEv1o35%2BVkhqZg4WpI44LgYQLxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV2",CETV-2
+http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgWtscwZsLIeCX4lNPPVSa8LxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV3",CETV-3
+http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtKB43Jj647OcHilv0oxiEALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV4",CETV-4
+http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiByI341AZF720jOgKAMqfALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu%2B73CN7TjP4aPry8BxkIZp4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视",浙江卫视高清
+http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnEBbogY8aw6bJAEBjs4erib81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视",湖南卫视高清
+http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEv%2FBvc4PvDgO7DYGtrmNF0Wb81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视",东方卫视高清
+http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi8DhBjIbitRWnzDWibuAPGb81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="北京卫视",北京卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt6ptYCV0fCKRLa0se%2BHo4x4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视",深圳卫视高清
+http://122.96.52.98:8006/JS_CUCC/SZWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt59%2B3P81uH3rGTNS8Zy3Gab81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="广东卫视",广东卫视高清
+http://122.96.52.98:8006/JS_CUCC/GDWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEh8Yy3cOy6MW1YL04NuPMnWb81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视",辽宁卫视
+http://122.96.52.98:8006/JS_CUCC/LNWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpyaYmFZBs3%2F4lBFmxmxLCSh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视",安徽卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_ANHUI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEskFtG7MWVQxnUKuRKkLGSo%2FO6CZAJHwPFPgP2uDLMpD&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="山东卫视",山东卫视
+http://122.96.52.98:8006/JS_CUCC/SDWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgJnugaB6lU2RiDy8HHtphWh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视",黑龙江卫视高清
+http://122.96.52.98:8006/JS_CUCC/HLJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuQYFtMskgEdx9i0%2F4S2ZWELxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="广西卫视",广西卫视
+http://122.96.52.98:8006/JS_CUCC/GXWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgjdSNp9%2FQYtow8vyvwfhjSh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="海南卫视",海南卫视
+http://122.96.52.98:8006/JS_CUCC/LYWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkeivJK3nCadzbUHoQEVeueh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="重庆卫视",重庆卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpFqHW6qVcpEGyFqe3ywDRylcT3GRWcrsYie743q87Gj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="四川卫视",四川卫视
+http://122.96.52.98:8006/JS_CUCC/SCWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgBBoZFu0Zvepmb0UQZtNu2h6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="河南卫视",河南卫视
+http://122.96.52.98:8006/JS_CUCC/HENAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhCasPttfY3%2B4oaoGbC3RRzhCsZiWNVb%2B9ug3Ov%2B5E3U&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="天津卫视",天津卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj0L6Dg1hhqIlpu3cjkIsD94LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="东南卫视",东南卫视
+http://122.96.52.98:8006/JS_CUCC/DNWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkRSpILeftJgnbffVmtM%2B%2F%2Bh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="天津卫视",天津卫视
+http://122.96.52.98:8006/JS_CUCC/TJWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpjTJQR1uuuqJkJgUr5HKn2h6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="江西卫视",江西卫视
+http://122.96.52.98:8006/JS_CUCC/JXWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEs8TwUzD65tYkhvFWQxElCWh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视",湖北卫视超清-8M
+http://122.96.52.98:8006/JS_CUCC/G_HUBEI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhiwo1rxJM5kmI3wVOY8TOIQaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="吉林卫视",吉林卫视
+http://122.96.52.98:8006/JS_CUCC/G_JILIN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnDt6k2ZFaQXrJv8xAOVlscQaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="山西卫视",山西卫视
+http://122.96.52.98:8006/JS_CUCC/SXWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqApGEhHKVP0W7v5nfXU0gOh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="贵州卫视",贵州卫视
+http://122.96.52.98:8006/JS_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjbowJTKP62EVqjfs1FFeyhRh8qf%2BgGyioJpkBVK226g&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="青海卫视",青海卫视
+http://122.96.52.98:8006/JS_CUCC/G_QINGHAI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEngXlTLAv49uuyHNr0mXufixTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="内蒙古卫视",内蒙古卫视
+http://122.96.52.98:8006/JS_CUCC/G_NEIMENGGU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqOL8nNQ1S%2B6DijQQvjgUFFCUQh9FunMYS5q3FNcKI%2FK&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="云南卫视",云南卫视
+http://122.96.52.98:8006/JS_CUCC/G_YUNNAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEulJCh%2BGH2so9fYg69UqP3yx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="河北卫视",河北卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_HEBEI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpEhkv8WidhUJbTEeV4mCMAQaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="河南卫视",河南卫视
+http://122.96.52.98:8006/JS_CUCC/G_HENAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo1biKSaN4IZAOln%2B3IklfYQaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="宁夏卫视",宁夏卫视
+http://122.96.52.98:8006/JS_CUCC/G_NINGXIA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmJE4sSDPIaupwOnmeI8tXyxTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="江西卫视",江西卫视
+http://122.96.52.98:8006/JS_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjwe5POuS0%2FZquuTeN6RjT1Rh8qf%2BgGyioJpkBVK226g&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="新疆卫视",新疆卫视
+http://122.96.52.98:8006/JS_CUCC/G_XINJIANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnwoM6X8D28QRog9H0tGRT4QaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="四川卫视",四川卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEn7XS3iuqo%2FInP87aBoeBPlRh8qf%2BgGyioJpkBVK226g&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="甘肃卫视",甘肃卫视
+http://122.96.52.98:8006/JS_CUCC/G_GANSU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjm6lyj63wOuif4yFIZD6C0T9hE%2Bnnruxo632KOPBAHY&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="陕西卫视",陕西卫视
+http://122.96.52.98:8006/JS_CUCC/G_SHANXI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmKbK5tLVW0G3wgUCR3i35Kx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="西藏卫视",西藏卫视
+http://122.96.52.98:8006/JS_CUCC/G_XIZANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi7BDz4Cp%2BWcu0LvdSIBpcCx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="大湾区卫视",大湾区卫视
+http://122.96.52.98:8006/JS_CUCC/G_NANFANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnrADI1KfDcYhI8IZ2lK6GuxTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视",辽宁卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_LIAONING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi6sZkgRoUiBEDwKyjhRsS%2BFQDG8TIJt2CZVMmGDJyl6&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="厦门卫视",厦门卫视
+http://122.96.52.98:8006/JS_CUCC/G_XIAMEN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqpfNU%2Bas2DIpy9699kPhPmx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="山东卫视",山东卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhzmA3bkY8uR2T6FfCfBDoiFQDG8TIJt2CZVMmGDJyl6&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="安多卫视",安多卫视
+http://122.96.52.98:8006/JS_CUCC/G_ANDUO.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEif3TMfb22ZNEVeWYwgICJsT9hE%2Bnnruxo632KOPBAHY&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="兵团卫视",兵团卫视
+http://122.96.52.98:8006/JS_CUCC/G_BINGTUAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoU5XufNOd%2FprEwiDApHRL0QaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="康巴卫视",康巴卫视
+http://122.96.52.98:8006/JS_CUCC/G_KANGBA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjyVYKp1ipPlJzdAziGewvmx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="农林卫视",农林卫视
+http://122.96.52.98:8006/JS_CUCC/G_NONGLIN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt21yETOwT7WedB5bCb%2F85GxTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="延边卫视",延边卫视
+http://122.96.52.98:8006/JS_CUCC/G_YANBIAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtfnNLUhqvr5DhrV6Ru5HyqxTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏教育",江苏教育
+http://122.96.52.98:8006/JS_CUCC/G_JSJY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjsYt23pVNf2zqF2rhGnDDHEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏城市",江苏城市
+http://122.96.52.98:8006/JS_CUCC/G_JSCS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErf9B6OvkNf7eoPnVhcls1vEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏新闻",江苏新闻
+http://122.96.52.98:8006/JS_CUCC/G_JSGG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnaaipXQfT6mvlq1T4j6uU3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏影视",江苏影视
+http://122.96.52.98:8006/JS_CUCC/G_JSYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsbz4xIpXVtCFIMno2yuqVbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏休闲体育",江苏休闲体育
+http://122.96.52.98:8006/JS_CUCC/G_JSTY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoAQpkXItVA4eG3wN%2BSQc93El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏综艺",江苏综艺
+http://122.96.52.98:8006/JS_CUCC/G_JSZY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEncrSBfKQn4Q5ZoKMcKsr4jEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="卡酷少儿",卡酷少儿
+http://122.96.52.98:8006/JS_CUCC/G_KAKU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvCRWHH5zs7t0tvZkMZOkqLEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="金鹰卡通",金鹰卡通
+http://122.96.52.98:8006/JS_CUCC/G_JINYING.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhq0dyfDyv%2BvSb71EJmi%2FwuxTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="嘉佳卡通",嘉佳卡通
+http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjeasMvBuKP6GPZxFFWsFH4YUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="优漫卡通",优漫卡通
+http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYG6bplRDRKBOwZRNifGgYUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="炫动卡通",炫动卡通
+http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElHAdYz2UZrlFf6hIAWx9LlYXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="山东教育",山东教育
+http://122.96.52.98:8006/JS_CUCC/G_SDETV.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg6%2Bh5nlom5Ljf0wuj86QlA3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="其他" tvg-name="好享购物",好享购物
+http://122.96.52.98:8006/JS_CUCC/G_HAOXIANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaZ3RBb4IpVIYdSjn1GrfxYXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="南京新闻综合",南京新闻综合
+http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="南京十八·生活",南京十八·生活
+http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqlM1l%2BeoFKI8wnHz%2FUgbsbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="南京教科",南京教科
+http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiGqx7T0gmg2iKRDXWqfssbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视",浙江卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoNd2dktho8dQKmJgOb8jA8sKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视",湖南卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_HUNAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpvKElGYWiZ5gdKgfgfTV%2F9YXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="南京文旅记录",南京文旅记录
+http://122.96.52.98:8006/JS_CUCC/G_NJYL.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjFqfQRndUrBSsUh%2BqRc5aPEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视",东方卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEquOD%2FF5rVZ9ggpQ6fpB0WEsKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="南京影视",南京影视
+http://122.96.52.98:8006/JS_CUCC/G_NJYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEryOYppBCaGCbwBoicbAMYfEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视",深圳卫视超清-8M
+http://122.96.52.98:8006/JS_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZLFHKtISZ64EC8%2FM6myNwsKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视",黑龙江卫视超清-8M
+http://122.96.52.98:8006/JS_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjIJG6TGS8K9nHRTabedgo5tE8skulJrPPJnh%2Bpgatn9&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="广东卫视",广东卫视超清-8M
+http://122.96.52.98:8006/JS_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi%2B9f1ioQT23DodmBN6xoZyFyF4UiSgYamv7VsmPOuOJ&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="南京少儿",南京少儿
+http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErV9ZZLHPB2iNJDmdQ9xIhzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV1",CCTV-1
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEr0O33cTzHngKVeC%2BpkEGGAYUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视",安徽卫视
+http://122.96.52.98:8006/JS_CUCC/AHWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt5GYC1wE7wHxmvrfn8kYAGh6T6Tk%2FxC%2FR7C%2FVai0Y0n&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV3",CCTV-3
+http://122.96.52.98:8006/JS_CUCC/CCTV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtV0mC1nal5AWJURADPySNLEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV4",CCTV-4
+http://122.96.52.98:8006/JS_CUCC/CCTV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhYiizerQ3gw0P1ZNM%2Fhj6vEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV5",CCTV-5超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuLBiWJLb2Xs%2Fj68hSxh8s980u7QUbxN5sCUdpV6z2MK&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV5+",CCTV-5+高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiH21ihWCb02eaLByFFgton8x5jrzqcco72EqzcdA%2Bsf&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV6",CCTV-6
+http://122.96.52.98:8006/JS_CUCC/CCTV-6.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEmMpAc2q1hNubfPYZhLOb1%2FEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV7",CCTV-7
+http://122.96.52.98:8006/JS_CUCC/CCTV-7.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnvSgPE%2FSUz5RwSWN%2F9gnfXEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV9",CCTV-9
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqSxitBDRao9cZu91w5ovqEYUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV10",CCTV-10
+http://122.96.52.98:8006/JS_CUCC/CCTV-10.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpkkW5fl2b5O6g2W9aDD5JU3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV11",CCTV-11
+http://122.96.52.98:8006/JS_CUCC/CCTV-11.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEihp3wJoSvxNOieQXVyZm9M3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV12",CCTV-12
+http://122.96.52.98:8006/JS_CUCC/CCTV-12.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgLx7yngoHabzsHoVzJ7rjA3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV13",CCTV-13
+http://122.96.52.98:8006/JS_CUCC/CCTV-13.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvc16C%2BvDeDvx%2FCpJSGbwJo3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="CCTV14",CCTV-14
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoD9ET%2Fxx1xfq9p9fkelR8gLl1kgfSDeytwXvPwn2c6i&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV15",CCTV-15
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnO2QfmJhn9rzsvMT8s8LNALl1kgfSDeytwXvPwn2c6i&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="北京卫视",北京卫视高清
+http://122.96.52.98:8006/JS_CUCC/BTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoRaGwcNlfzCoTWCXJuHL4%2FhCsZiWNVb%2B9ug3Ov%2B5E3U&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视
+http://122.96.52.98:8006/JS_CUCC/JSWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsx9gdDHY22LeCx6dQRJvo%2BAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV16",CCTV-16
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEprOy1thJK05Ys6n3CjtSJlMbaR389oSCXqlFcK2rwtb&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV4",CCTV-4超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEm2D6ehZ%2Fm6uG04mUXeIzUE04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV6",CCTV-6超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEs08JDfw3s7WN3MnDGyc%2FSg04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="重庆卫视",重庆卫视
+http://122.96.52.98:8006/JS_CUCC/G_CHONGQING.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqSEHLaOrkG3xlg23AFEwGU04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="贵州卫视",贵州卫视
+http://122.96.52.98:8006/JS_CUCC/G_GUIZHOU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEl97N1DtijAuyp%2BolGc7ka%2FBA1Zy9ppdOQxWl2sfZOUh&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="吉林卫视",吉林卫视
+http://122.96.52.98:8006/JS_CUCC/G_JILIN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhs8xUkEypwRdCKBuqjWpbmAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视",湖北卫视
+http://122.96.52.98:8006/JS_CUCC/G_HUBEI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEk41tqIuBivJ2FHDlu%2FA6nWAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="卫视" tvg-name="河北卫视",河北卫视
+http://122.96.52.98:8006/JS_CUCC/G_HEBEI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsF4b4x%2B7gd3f9B%2B0BA08CCAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV8",CCTV-8超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjRHl42BlkGJajq1an8WD9s04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElCWthYRb1KKeprmYzrIdHpMbaR389oSCXqlFcK2rwtb&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV2财经频道",CCTV2财经频道
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgwqdXJuN6bi6tfgWhbeDhs04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV3",CCTV-3超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiC5KyJleyIffsaVcNhS%2FJk04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="苏州",苏州新闻综合1
 http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 #EXTINF:-1 group-title="苏州",苏州社会经济2
