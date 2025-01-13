@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import re
 import sys
 import requests
 from datetime import datetime
@@ -95,6 +96,7 @@ def get_js_unicom_source(data):
         tag = item['tag']
         chnunCode = item['chnunCode']
         chnName = item['chnName']
+        tvgName = re.sub(r"高清|超清|超清|-8M|-", "", chnName)
         chnCode = item['chnCode']
         playUrl = item['playUrl']
         response = requests.get(playUrl)
@@ -110,7 +112,7 @@ def get_js_unicom_source(data):
 
         # 打印提取的信息
         print(f"处理: {tag}-{chnName}-{chnCode}")
-        m3u_data_full += f'#EXTINF:-1 group-title="{groupName}",{chnName}\n'
+        m3u_data_full += f'#EXTINF:-1 group-title="{groupName}" tvg-name="{tvgName}",{chnName}\n'
         m3u_data_full += f'{playUrl_real}\n'
 
         # 青少年保护频道过滤
