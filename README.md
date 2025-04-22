@@ -2,12 +2,12 @@
 
 ## 完整频道
 * [latest](https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_full-latest.m3u)
-* [latest mirror](https://ghfast.top//https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_full-latest.m3u)
+* [latest mirror](https://gh-proxy.com/https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_full-latest.m3u)
 
 ## 青少年保护
 * 去掉了**少儿**和**卡通**频道
 * [latest](https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_kid-latest.m3u)
-* [latest mirror](https://ghfast.top//https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_kid-latest.m3u)
+* [latest mirror](https://gh-proxy.com/https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_kid-latest.m3u)
 
 ## 历史文件
 * [history](/history/)
